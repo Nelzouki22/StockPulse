@@ -1,4 +1,4 @@
-# Stock Tracker PWA
+# Stock Plus  Tracker PWA
 
 > شبه تطبيق تداول احترافي لتتبع أسعار الأسهم مباشرة على المتصفح والهاتف.  
 > A semi-professional stock trading-like app for tracking stock prices on browser and mobile.  
