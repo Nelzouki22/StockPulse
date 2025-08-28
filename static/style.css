@@ -1,0 +1,10 @@
+body { padding: 20px; background: #f0f2f5; font-family: Arial, sans-serif; }
+input { margin-bottom: 10px; }
+.error { color: red; font-weight: bold; }
+.table tbody tr.fade-update { animation: fadeIn 0.5s; }
+@keyframes fadeIn { from { background-color: #ffffcc; } to { background-color: white; } }
+.positive { background-color: #d4edda !important; transition: background 0.5s; }
+.negative { background-color: #f8d7da !important; transition: background 0.5s; }
+canvas { margin-top: 20px; background: white; border: 1px solid #ddd; border-radius: 5px; padding: 10px; }
+.lang-btn { cursor: pointer; margin-left: 10px; }
+
